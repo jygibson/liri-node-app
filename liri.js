@@ -28,8 +28,6 @@ for (i = 3; i < searchInput.length; i++) {
     };
 }
 
-console.log(inputName)
-
 var omdbUrl = "http://www.omdbapi.com/?t=" + inputName + "&y=&plot=short&apikey=trilogy";
 var bitUrl = "https://rest.bandsintown.com/artists/" + inputName + "/events?app_id=codingbootcamp"
 
