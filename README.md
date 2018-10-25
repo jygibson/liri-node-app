@@ -16,7 +16,7 @@ Otherwise, the Liri-Bot will give you the venue name, city name, and date/time o
 
 ![concert-this-results](/screenshots-liri/concert-this-results.jpg)
 
-===================================================================================
+=========================================================
 
 *Want to know more information about that song that stuck in your head? Type the following into Liri-Bot:*
 

@@ -5,15 +5,6 @@ var omdb = require("omdb")
 var request = require("request");
 var fs= require("fs");
 var keysFile = require("./keys.js")
-// console.log(keysFile)
-
-// 8. Add the code required to import the `keys.js` file and store it in a variable.
-
-// * You should then be able to access your keys information like so
-
-//   ```js
-//   var spotify = new Spotify(keys.spotify);
-//   ```
 
 var action = process.argv[2];
 var searchInput = process.argv;
